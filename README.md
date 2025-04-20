@@ -2,8 +2,6 @@
 
 This repository documents a no-code project that leverages Microsoft’s ecosystem to capture employee feedback, analyze sentiment using Azure Cognitive Services, and display insights via a Power BI dashboard.
 
-> **Note:** This version focuses only on employee feedback. The Employee Recognition list is not part of this project.
-
 ---
 
 ## Table of Contents
